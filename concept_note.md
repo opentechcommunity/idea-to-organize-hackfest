@@ -2,7 +2,7 @@
 - Orientation: DATE RANGE
 - Closed Camp: DATE RANGE
 - Pitching: DATE
-# Reach out
+# Planning
 ### Orientation
 - Number of institutions
 - Team size
