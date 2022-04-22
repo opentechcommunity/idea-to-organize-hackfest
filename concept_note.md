@@ -1,4 +1,4 @@
-# Key date
+# Key Activities
 - Orientation: DATE RANGE
 - Closed Camp: DATE RANGE
 - Pitching: DATE
