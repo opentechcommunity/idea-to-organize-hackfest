@@ -14,9 +14,7 @@
 ### Orientation
 - Reach out the potential institutions
 - Vist institutions and sensitize about free and open source software, open mapping, and open data
-- Share about the Hackfest event and ask to register
-  - Team can apply
-  - A filter to select the team can be developed if required
+- Share about the Hackfest event and ask to register (by a team)
 ### Closed camp
 - Share the project idea
 - Assign mentor
