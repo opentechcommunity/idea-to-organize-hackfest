@@ -38,5 +38,8 @@
 | 2 | Cap | `COST RATE` |<table><tr><td>Number</td><td>Participants</td></tr></table>|<table><tr><td>`Number`</td><td>Times</td></tr></table>|`Value`|
 | 3 | Water Bottle | `COST RATE` |<table><tr><td>Number</td><td>Participants</td></tr></table>|<table><tr><td>`Number`</td><td>Times</td></tr></table>|`Value`|
 | 4 | T-shirt                         | `COST RATE` |<table><tr><td>Number</td><td>Participants</td></tr></table>|<table><tr><td>`Number`</td><td>Times</td></tr></table>|`Value`|
-|  | Total                         |  | | | Total value (C)|
+|  | Total                         |  | | | Total value (D)|
+
+| Grand Total | Grand Total value (A+B+C+D)|
+| - | - |
 
