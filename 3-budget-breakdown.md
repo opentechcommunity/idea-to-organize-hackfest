@@ -40,6 +40,6 @@
 | 4 | T-shirt                         | `COST RATE` |<table><tr><td>Number</td><td>Participants</td></tr></table>|<table><tr><td>`Number`</td><td>Times</td></tr></table>|`Value`|
 |  | Total                         |  | | | Total value (D)|
 
-| Grand Total | Grand Total value (A+B+C+D)|
+| Grand Total | Sum of Total Values (A+B+C+D)|
 | - | - |
 
